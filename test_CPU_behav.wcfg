@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test_nonflag_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="test_nonflag" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="7812307fs"></ZoomEndTime>
+      <Cursor1Time time="2099000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="234"></NameColumnWidth>
+      <ValueColumnWidth column_width="116"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="24" />
+   <wvobject fp_name="/test_nonflag/top_noflag/CLK50MHZ" type="logic">
+      <obj_property name="ElementShortName">CLK50MHZ</obj_property>
+      <obj_property name="ObjectShortName">CLK50MHZ</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/ACC_OUT" type="array">
+      <obj_property name="ElementShortName">ACC_OUT[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ACC_OUT[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/cu/Control_signals" type="array">
+      <obj_property name="ElementShortName">Control_signals[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Control_signals[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/cu/opcode" type="array">
+      <obj_property name="ElementShortName">opcode[7:0]</obj_property>
+      <obj_property name="ObjectShortName">opcode[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/cu/addra" type="array">
+      <obj_property name="ElementShortName">addra[7:0]</obj_property>
+      <obj_property name="ObjectShortName">addra[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/alu/eightnum" type="array">
+      <obj_property name="ElementShortName">eightnum[31:0]</obj_property>
+      <obj_property name="ObjectShortName">eightnum[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/alu/alu2acc" type="array">
+      <obj_property name="ElementShortName">alu2acc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">alu2acc[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/ram_mod/ram_out" type="array">
+      <obj_property name="ElementShortName">ram_out[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ram_out[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/alu/temp" type="array">
+      <obj_property name="ElementShortName">temp[31:0]</obj_property>
+      <obj_property name="ObjectShortName">temp[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/alu/acc_in" type="array">
+      <obj_property name="ElementShortName">acc_in[15:0]</obj_property>
+      <obj_property name="ObjectShortName">acc_in[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/alu/br_in" type="array">
+      <obj_property name="ElementShortName">br_in[15:0]</obj_property>
+      <obj_property name="ObjectShortName">br_in[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/alu/alu2mr" type="array">
+      <obj_property name="ElementShortName">alu2mr[15:0]</obj_property>
+      <obj_property name="ObjectShortName">alu2mr[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/IR_OUT" type="array">
+      <obj_property name="ElementShortName">IR_OUT[7:0]</obj_property>
+      <obj_property name="ObjectShortName">IR_OUT[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/PC_OUT" type="array">
+      <obj_property name="ElementShortName">PC_OUT[7:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_OUT[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/MAR_OUT" type="array">
+      <obj_property name="ElementShortName">MAR_OUT[7:0]</obj_property>
+      <obj_property name="ObjectShortName">MAR_OUT[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/MBR_OUT" type="array">
+      <obj_property name="ElementShortName">MBR_OUT[15:0]</obj_property>
+      <obj_property name="ObjectShortName">MBR_OUT[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/ACC_OUT" type="array">
+      <obj_property name="ElementShortName">ACC_OUT[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ACC_OUT[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/BR_ALU" type="array">
+      <obj_property name="ElementShortName">BR_ALU[15:0]</obj_property>
+      <obj_property name="ObjectShortName">BR_ALU[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/MR_OUT" type="array">
+      <obj_property name="ElementShortName">MR_OUT[15:0]</obj_property>
+      <obj_property name="ObjectShortName">MR_OUT[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/ram_mod/addra" type="array">
+      <obj_property name="ElementShortName">addra[7:0]</obj_property>
+      <obj_property name="ObjectShortName">addra[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/ram_mod/dina" type="array">
+      <obj_property name="ElementShortName">dina[15:0]</obj_property>
+      <obj_property name="ObjectShortName">dina[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/ram_mod/douta" type="array">
+      <obj_property name="ElementShortName">douta[15:0]</obj_property>
+      <obj_property name="ObjectShortName">douta[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/ram_mod/wea" type="array">
+      <obj_property name="ElementShortName">wea[0:0]</obj_property>
+      <obj_property name="ObjectShortName">wea[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_nonflag/top_noflag/cu/CU_ALU" type="array">
+      <obj_property name="ElementShortName">CU_ALU[3:0]</obj_property>
+      <obj_property name="ObjectShortName">CU_ALU[3:0]</obj_property>
+   </wvobject>
+</wave_config>

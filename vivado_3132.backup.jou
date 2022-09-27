@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun May 29 20:43:19 2022
+# Process ID: 3132
+# Current directory: D:/CPU_with_TWO_ip_cores_with_button_v4/CPU_with_ip_core_with_button_v1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21216 D:\CPU_with_TWO_ip_cores_with_button_v4\CPU_with_ip_core_with_button_v1\CPU.xpr
+# Log file: D:/CPU_with_TWO_ip_cores_with_button_v4/CPU_with_ip_core_with_button_v1/vivado.log
+# Journal file: D:/CPU_with_TWO_ip_cores_with_button_v4/CPU_with_ip_core_with_button_v1\vivado.jou
+#-----------------------------------------------------------start_gui
+open_project D:/CPU_with_TWO_ip_cores_with_button_v4/CPU_with_ip_core_with_button_v1/CPU.xpr
+uupdate_compile_order -fileset sources_1
